@@ -1,8 +1,8 @@
 # Blog Preview Card | Frontend Mentor
 
 <div align="center">
-  <a href="https://your-live-demo.com">Live Demo</a> | 
-  <a href="https://www.frontendmentor.io/solutions/blog-card-html-css-flexbox-Jj4XzJfBvR">Solution</a> | 
+  <a href="https://blogcard-online.netlify.app/">Live Demo</a> | 
+  <a href="https://www.frontendmentor.io/solutions/responsive-blog-card-using-flexbox-_LYawNyCTm">Solution</a> | 
   <a href="https://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01IcS">Challenge</a>
 </div>
 
